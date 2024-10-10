@@ -27,3 +27,8 @@ Tables Overview:
 Summary:
 
 This Library Management System is designed to streamline the management of library operations by creating a structured database with defined relationships among tables. The proposed SQL queries enable the retrieval of crucial information that supports efficient book management, employee oversight, and customer engagement. With this system, libraries can enhance their services, ensure better resource allocation, and provide a more user-friendly experience for patrons.
+
+
+NOTE:
+
+this repository alos contains the syntax and results screenshot and sql file.
